@@ -8,12 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* aviatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* aviatorTests.m */; };
+		085333D4FF7242199431108B /* Jura-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C0DD84D179194CD18090F93B /* Jura-Regular.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-aviator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-aviator.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		3646BD1200F247B4924C9A9B /* Jura-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 426BA0A64E4C48C6B4EE65E7 /* Jura-Light.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-aviator-aviatorTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-aviator-aviatorTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		98424AECB61A44D5A9B3C66F /* Jura-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D927A410636742E3B0C72185 /* Jura-Medium.ttf */; };
+		CBD27F0E4673430C8F3A6D59 /* Jura-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A82845544C0E4538B560B957 /* Jura-Bold.ttf */; };
+		CF324D828D4B4A1688E2DB11 /* Jura-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3ED226113D4A4941AE7EBC6A /* Jura-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,11 +43,16 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = aviator/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-aviator-aviatorTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-aviator-aviatorTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-aviator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aviator.debug.xcconfig"; path = "Target Support Files/Pods-aviator/Pods-aviator.debug.xcconfig"; sourceTree = "<group>"; };
+		3ED226113D4A4941AE7EBC6A /* Jura-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Jura-SemiBold.ttf"; path = "../assets/fonts/Jura-SemiBold.ttf"; sourceTree = "<group>"; };
+		426BA0A64E4C48C6B4EE65E7 /* Jura-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Jura-Light.ttf"; path = "../assets/fonts/Jura-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-aviator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aviator.release.xcconfig"; path = "Target Support Files/Pods-aviator/Pods-aviator.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-aviator-aviatorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aviator-aviatorTests.debug.xcconfig"; path = "Target Support Files/Pods-aviator-aviatorTests/Pods-aviator-aviatorTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-aviator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-aviator.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = aviator/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-aviator-aviatorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-aviator-aviatorTests.release.xcconfig"; path = "Target Support Files/Pods-aviator-aviatorTests/Pods-aviator-aviatorTests.release.xcconfig"; sourceTree = "<group>"; };
+		A82845544C0E4538B560B957 /* Jura-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Jura-Bold.ttf"; path = "../assets/fonts/Jura-Bold.ttf"; sourceTree = "<group>"; };
+		C0DD84D179194CD18090F93B /* Jura-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Jura-Regular.ttf"; path = "../assets/fonts/Jura-Regular.ttf"; sourceTree = "<group>"; };
+		D927A410636742E3B0C72185 /* Jura-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Jura-Medium.ttf"; path = "../assets/fonts/Jura-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -122,6 +132,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				88E4A5808A214A5CB61A7D92 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +146,19 @@
 				00E356EE1AD99517003FC87E /* aviatorTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		88E4A5808A214A5CB61A7D92 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A82845544C0E4538B560B957 /* Jura-Bold.ttf */,
+				426BA0A64E4C48C6B4EE65E7 /* Jura-Light.ttf */,
+				D927A410636742E3B0C72185 /* Jura-Medium.ttf */,
+				C0DD84D179194CD18090F93B /* Jura-Regular.ttf */,
+				3ED226113D4A4941AE7EBC6A /* Jura-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -243,6 +267,11 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				CBD27F0E4673430C8F3A6D59 /* Jura-Bold.ttf in Resources */,
+				3646BD1200F247B4924C9A9B /* Jura-Light.ttf in Resources */,
+				98424AECB61A44D5A9B3C66F /* Jura-Medium.ttf in Resources */,
+				085333D4FF7242199431108B /* Jura-Regular.ttf in Resources */,
+				CF324D828D4B4A1688E2DB11 /* Jura-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,7 +573,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -572,6 +601,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -579,7 +609,13 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -616,7 +652,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -636,6 +672,7 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -643,7 +680,13 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
